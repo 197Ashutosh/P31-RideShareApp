@@ -68,9 +68,9 @@ booking_id, user_id, ride_id, seats_booked
 4. Update MySQL password in DBConnection.java
 
 Compile:
-javac -cp ".;mysql-connector-j-9.6.0.jar" *.java
+- javac -cp ".;mysql-connector-j-9.6.0.jar" *.java
 Run:
-java -cp ".;mysql-connector-j-9.6.0.jar" Main
+- java -cp ".;mysql-connector-j-9.6.0.jar" Main
 
 
 ---
